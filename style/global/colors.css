@@ -1,11 +1,10 @@
 :root {
-    --color-1: #fcfcfc;
-    --color-2: #a3a3a3;
-    --color-3: #656565;
-    --color-4: #222222;
-    /* ---------------- */
-    --color-p1: #9f65f5;
-    --color-p2: #decbfa;
-    --color-p3: #eadefb;
-    --color-p4: #eee5fb;
+  --color-1: #fcfcfc;
+  --color-2: #a3a3a3;
+  --color-3: #656565;
+  --color-4: #222222;
+  --color-p1: #9f65f5;
+  --color-p2: #decbfa;
+  --color-p3: #eadefb;
+  --color-p4: #eee5fb;
 }
